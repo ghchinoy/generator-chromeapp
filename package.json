@@ -16,10 +16,10 @@
   },
   "dependencies": {
     "chalk": "^1.0.0",
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.17",
     "rimraf": "^2.3.2",
     "shelljs": "^0.4.0",
-    "yeoman-generator": "^0.18.10"
+    "yeoman-generator": "^0.23.0"
   },
   "peerDependencies": {
     "generator-mocha": ">=0.1.6"
