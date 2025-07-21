@@ -19,7 +19,7 @@
     "lodash": "^3.5.0",
     "rimraf": "^2.3.2",
     "shelljs": "^0.4.0",
-    "yeoman-generator": "^0.18.10"
+    "yeoman-generator": "^0.19.0"
   },
   "peerDependencies": {
     "generator-mocha": ">=0.1.6"
